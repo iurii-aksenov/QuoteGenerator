@@ -1,0 +1,36 @@
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  }
+  
+  h1{
+    text-align: center;
+  }
+  
+  .btn-small{
+    width:200px;
+  }
+  
+  .button-container{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .canvas-container {
+    width: 100%;
+    text-align:center;
+  }
+  
+  canvas {
+    display: inline;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+  }
+  
+  #quote{
+    display: none;
+    height: 20px;
+
+  }
+
+  .quoteUrlConteiner{
+    text-align: center;
+  }
